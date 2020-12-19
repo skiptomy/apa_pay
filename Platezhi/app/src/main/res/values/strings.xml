@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Коммунальные платежи</string>
+    <string name="first_month">Предыдущий месяц</string>
+    <string name="second_month">Текущий месяц</string>
+    <string name="gaz">Газ</string>
+    <string name="water">Вода</string>
+    <string name="energy">Электроенергия</string>
+    <string name="warm">Тепло</string>
+    <string name="flat">Квартплата</string>
+    <string name="result">Результат</string>
+</resources>
